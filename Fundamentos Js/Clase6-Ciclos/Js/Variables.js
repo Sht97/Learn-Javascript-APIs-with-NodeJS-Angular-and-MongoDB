@@ -18,7 +18,7 @@ console.log("SubArray",array.slice(0,3));
 console.log("Jugo",jugo);
 console.log("Ingedientes",[jugo.ingrediente1,jugo.ingrediente2,jugo.cucharadaAzucar]);
 
-//Variables DOM "Moelo de objetos del documento"
+//Variables DOM "Mocelo de objetos del documento"
 /*El DOM es la estructura de objetos que genera el navegador cuando carga un documento
 y se puede alterar mediante javascript para cambiar dinamicamente los contenidos y aspectos
 de la página*/
