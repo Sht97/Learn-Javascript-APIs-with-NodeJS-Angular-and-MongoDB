@@ -1,4 +1,4 @@
-function  probar ()
+function  cambiarCajas ()
 {
     for(var i=0;i<10;i++)
     {
@@ -20,5 +20,12 @@ function  probar ()
     n--;
     }while(n>0);
     var boxes=document.querySelectorAll(".Boxes");
-    for(var j=0;j<boxes.length;j++) boxes[j].innerHTML="New box"+j;
+    for(var j=0;j<boxes.length;j++) {
+        boxes[j].innerHTML="New box"+j;
+        boxes[j].style.marginRight="7px";
+        boxes[j].style.marginTop="7px";
+        boxes[j].style.display="inline-block";
+        boxes[j].style.backgroundColor="blue";
+    }
+
 }
