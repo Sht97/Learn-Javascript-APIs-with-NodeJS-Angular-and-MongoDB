@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ec77d76-77b6-41ab-b097-7c93855f22e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Readmy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculadoraHTML/Clase1-Maquetado/CSS/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculadoraHTML/Clase1-Maquetado/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculadoraHTML/Clase2-BotonesConClick/CSS/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculadoraHTML/Clase2-BotonesConClick/Js/Code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculadoraHTML/Clase2-BotonesConClick/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculadoraHTML/Clase3-Mostrar en pantalla/CSS/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculadoraHTML/Clase3-Mostrar en pantalla/Js/Code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculadoraHTML/Clase3-Mostrar en pantalla/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculadoraHTML/Clase4-Operaciones matemáticas/CSS/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculadoraHTML/Clase4-Operaciones matemáticas/Js/Code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculadoraHTML/Clase4-Operaciones matemáticas/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,41 +62,50 @@
     <session id="-683822303">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="3" />
-          <entry key="js" value="6" />
-          <entry key="md" value="1" />
+          <entry key="css" value="2" />
+          <entry key="html" value="7" />
+          <entry key="js" value="10" />
+          <entry key="md" value="2" />
+          <entry key="rnc" value="1" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="3" />
-          <entry key="JavaScript" value="6" />
-          <entry key="Markdown" value="1" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="7" />
+          <entry key="JavaScript" value="10" />
+          <entry key="Markdown" value="2" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="21" />
-          <entry key="js" value="1875" />
-          <entry key="md" value="319" />
-          <entry key="txt" value="36" />
+          <entry key="css" value="337" />
+          <entry key="html" value="358" />
+          <entry key="js" value="3126" />
+          <entry key="md" value="368" />
+          <entry key="txt" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="21" />
-          <entry key="JavaScript" value="1875" />
-          <entry key="Markdown" value="319" />
-          <entry key="PLAIN_TEXT" value="36" />
+          <entry key="CSS" value="337" />
+          <entry key="HTML" value="358" />
+          <entry key="JavaScript" value="3126" />
+          <entry key="Markdown" value="368" />
+          <entry key="PLAIN_TEXT" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -94,13 +115,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Readmy.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+              <first_editor relative-caret-position="162">
+                <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CalculadoraHTML/Clase4-Operaciones matemáticas/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CalculadoraHTML/Clase4-Operaciones matemáticas/Js/Code.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-63">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -110,6 +149,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -143,6 +184,14 @@
         <option value="$PROJECT_DIR$/3-POO/Clase3-Problema lógico1/index.html" />
         <option value="$PROJECT_DIR$/3-POO/Clase3-Problema lógico1/Js/Problem1.js" />
         <option value="$PROJECT_DIR$/Readmy.md" />
+        <option value="$PROJECT_DIR$/CalculadoraHTML/index.html" />
+        <option value="$PROJECT_DIR$/CalculadoraHTML/CSS/estilo.css" />
+        <option value="$PROJECT_DIR$/CalculadoraHTML/Clase2-BotonesConClick/index.html" />
+        <option value="$PROJECT_DIR$/CalculadoraHTML/Clase2-BotonesConClick/Js/Code.js" />
+        <option value="$PROJECT_DIR$/CalculadoraHTML/Clase3-Mostrar en pantalla/Js/Code.js" />
+        <option value="$PROJECT_DIR$/CalculadoraHTML/Clase3-Mostrar en pantalla/index.html" />
+        <option value="$PROJECT_DIR$/CalculadoraHTML/Clase4-Operaciones matemáticas/Js/Code.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -153,10 +202,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="312" />
-    <option name="y" value="112" />
-    <option name="width" value="1390" />
-    <option name="height" value="1007" />
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -169,10 +218,13 @@
           <State>
             <id>JavaScript validity issuesJavaScript</id>
           </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>BadExpressionStatementJS</id>
+            <id>JSEqualityComparisonWithCoercion</id>
           </State>
         </selected-state>
       </profile-state>
@@ -186,6 +238,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -193,20 +246,41 @@
               <item name="Learn-Javascript-APIs-with-NodeJS-Angular-and-MongoDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
+            <path>
+              <item name="Learn-Javascript-APIs-with-NodeJS-Angular-and-MongoDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="3-POO" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Learn-Javascript-APIs-with-NodeJS-Angular-and-MongoDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="3-POO" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Clase1-Clases" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Learn-Javascript-APIs-with-NodeJS-Angular-and-MongoDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="CalculadoraHTML" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CalculadoraHTML/Clase1-Maquetado" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CalculadoraHTML" />
       <recent name="$PROJECT_DIR$/3-POO" />
       <recent name="$PROJECT_DIR$/Fundamentos Js" />
     </key>
@@ -237,7 +311,8 @@
       <workItem from="1540566085786" duration="102000" />
       <workItem from="1540566218725" duration="3540000" />
       <workItem from="1540689273629" duration="5151000" />
-      <workItem from="1540825608433" duration="584000" />
+      <workItem from="1540825608433" duration="1235000" />
+      <workItem from="1540826871668" duration="8722000" />
     </task>
     <task id="LOCAL-00001" summary="Primera.">
       <created>1540568255919</created>
@@ -253,11 +328,34 @@
       <option name="project" value="LOCAL" />
       <updated>1540569671055</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="readme">
+      <created>1540826281974</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540826281974</updated>
+    </task>
+    <task id="LOCAL-00004" summary="readme solved">
+      <created>1540826557500</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540826557500</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18007000" />
+    <option name="totallyTimeSpent" value="27380000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -266,9 +364,9 @@
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18688525" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.11466373" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.11375948" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3296582" />
@@ -276,7 +374,7 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32949308" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -286,13 +384,41 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primera." />
     <MESSAGE value="Segunda clase poo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segunda clase poo" />
+    <MESSAGE value="readme" />
+    <MESSAGE value="readme solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme solved" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Fundamentos Js/Clase6-Ciclos/Js/CondicionesYCambios.js" />
@@ -364,11 +490,80 @@
     <entry file="file://$PROJECT_DIR$/3-POO/Clase3-Problema lógico1/Js/Clases.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Readmy.md">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculadoraHTML/Clase2-BotonesConClick/CSS/estilo.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculadoraHTML/Clase1-Maquetado/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculadoraHTML/Clase1-Maquetado/CSS/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-387">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculadoraHTML/Clase2-BotonesConClick/Js/Code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculadoraHTML/Clase2-BotonesConClick/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculadoraHTML/Clase3-Mostrar en pantalla/Js/Code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculadoraHTML/Clase3-Mostrar en pantalla/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculadoraHTML/Clase4-Operaciones matemáticas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculadoraHTML/Clase4-Operaciones matemáticas/Js/Code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
           </first_editor>
           <second_editor />
         </state>
