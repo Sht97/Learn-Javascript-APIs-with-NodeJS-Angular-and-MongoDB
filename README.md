@@ -6,4 +6,8 @@ Modulos correspondientes:
 ### 3 Programación orientada a objetos con Javascript  
 ### 4 Creación de una calculadora básica con Javascript
 ### 5 Recurso interactivo, crear slideshow
+### 6 Recurso interactivo, crear una galeria
+### 7 Recurso interactivo, Efectos con mouse
+### 8 Recurso interactivo, Efectos con scroll
 ### 9 Crear formularios con Javascript
+### 10 Adaptar para dispositivos moviles.
