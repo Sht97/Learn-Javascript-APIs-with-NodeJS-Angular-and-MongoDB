@@ -12,3 +12,4 @@ Modulos correspondientes:
 ### 9 Crear formularios con Javascript.
 ### 10 Adaptar para dispositivos moviles.
 ### 11 Typescript.
+### 12 Angular.
