@@ -1,38 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ec77d76-77b6-41ab-b097-7c93855f22e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase1-Maquetado html y css/CSS/estilo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase1-Maquetado html y css/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/CSS/estilo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/img/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/img/icono.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/img/logotipo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/img/slide/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/img/slide/slide01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/img/slide/slide02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/img/slide/slide03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/img/slide/slide04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/CSS/estilo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/CSS/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/img/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/img/icono.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/img/logotipo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/img/slide/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/img/slide/slide01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/img/slide/slide02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/img/slide/slide03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/img/slide/slide04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/index.html" afterDir="false" />
+    <list default="true" id="8ec77d76-77b6-41ab-b097-7c93855f22e7" name="Default Changelist" comment="Formulario maquetado.">
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase1-Maquetado html y css/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase1-Maquetado html y css/img/icono.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase1-Maquetado html y css/img/logotipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase1-Maquetado html y css/img/slide/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase1-Maquetado html y css/img/slide/slide01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase1-Maquetado html y css/img/slide/slide02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase1-Maquetado html y css/img/slide/slide03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase1-Maquetado html y css/img/slide/slide04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/CSS/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/css/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/box.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/galeria/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/galeria/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/galeria/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/galeria/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/galeria/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/galeria/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/galeria/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/icono.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/logotipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/mouse/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/mouse/plano00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/mouse/plano01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/mouse/plano02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/radio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/slide/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/slide/slide01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/slide/slide02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/slide/slide03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/img/slide/slide04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/js/01.efecto-parallax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/js/02.vincular-botones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/js/03.navegar-entre-botones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/js/galeria.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/js/mouse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/js/scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/js/scroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/js/slide.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/css/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/box.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/galeria/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/galeria/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/galeria/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/galeria/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/galeria/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/galeria/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/galeria/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/icono.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/logotipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/mouse/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/mouse/plano00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/mouse/plano01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/mouse/plano02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/radio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/slide/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/slide/slide01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/slide/slide02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/slide/slide03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/img/slide/slide04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/js/01.efecto-parallax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/js/02.vincular-botones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/js/03.navegar-entre-botones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/js/galeria.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/js/mouse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/js/scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/js/scroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/js/slide.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,50 +140,52 @@
     <session id="-683822303">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="6" />
-          <entry key="html" value="12" />
-          <entry key="js" value="10" />
+          <entry key="css" value="7" />
+          <entry key="html" value="13" />
+          <entry key="js" value="14" />
           <entry key="md" value="3" />
           <entry key="rnc" value="1" />
+          <entry key="svg" value="2" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="6" />
-          <entry key="HTML" value="12" />
-          <entry key="JavaScript" value="10" />
+          <entry key="CSS" value="7" />
+          <entry key="HTML" value="13" />
+          <entry key="JavaScript" value="14" />
           <entry key="Markdown" value="3" />
           <entry key="RNG Compact" value="1" />
+          <entry key="SVG" value="2" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="337" />
-          <entry key="html" value="1902" />
+          <entry key="css" value="722" />
+          <entry key="html" value="2035" />
           <entry key="js" value="3126" />
           <entry key="md" value="460" />
-          <entry key="txt" value="97" />
+          <entry key="txt" value="201" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="337" />
-          <entry key="HTML" value="1902" />
+          <entry key="CSS" value="722" />
+          <entry key="HTML" value="2035" />
           <entry key="JavaScript" value="3126" />
           <entry key="Markdown" value="460" />
-          <entry key="PLAIN_TEXT" value="97" />
+          <entry key="PLAIN_TEXT" value="201" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -131,13 +194,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1-Validación formulario/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="381" lean-forward="true" selection-start-line="381" selection-end-line="381" />
+            <state relative-caret-position="342">
+              <caret line="370" selection-start-line="370" selection-end-line="370" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/css/estilo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="311" column="1" selection-start-line="311" selection-start-column="1" selection-end-line="311" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/js/scroll.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2561">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/fonts/fontawesome-webfont.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1407">
+              <caret line="151" column="4" selection-start-line="151" selection-start-column="4" selection-end-line="151" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/fonts/fontawesome-webfont.svg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -192,7 +294,10 @@
         <option value="$PROJECT_DIR$/5-SlideShow/Clase1-Maquetado html y css/CSS/estilo.css" />
         <option value="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/9-Formularios JS/Clase1-Validación formulario/css/estilo.css" />
         <option value="$PROJECT_DIR$/9-Formularios JS/Clase1-Validación formulario/index.html" />
+        <option value="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/fonts/fontawesome-webfont.svg" />
+        <option value="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/fonts/fontawesome-webfont.svg" />
       </list>
     </option>
   </component>
@@ -202,10 +307,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="67" />
     <option name="y" value="25" />
-    <option name="width" value="927" />
+    <option name="width" value="1139" />
     <option name="height" value="1055" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -252,6 +357,12 @@
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="9-Formularios JS" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="Learn-Javascript-APIs-with-NodeJS-Angular-and-MongoDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="9-Formularios JS" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Clase3-Eventos focus" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -266,16 +377,17 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/9-Formularios JS" />
+      <recent name="$PROJECT_DIR$/9-Formularios JS/Clase1-Validación formulario/img" />
+      <recent name="$PROJECT_DIR$/5-SlideShow" />
+      <recent name="$PROJECT_DIR$/CalculadoraHTML" />
+      <recent name="$PROJECT_DIR$/3-POO" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/9-Formularios JS/Clase1-Validación formulario" />
       <recent name="$PROJECT_DIR$/5-SlideShow/Clase1-Maquetado html y css" />
       <recent name="$PROJECT_DIR$/CalculadoraHTML/Clase1-Maquetado" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/5-SlideShow" />
-      <recent name="$PROJECT_DIR$/CalculadoraHTML" />
-      <recent name="$PROJECT_DIR$/3-POO" />
-      <recent name="$PROJECT_DIR$/Fundamentos Js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -305,7 +417,8 @@
       <workItem from="1540566218725" duration="3540000" />
       <workItem from="1540689273629" duration="5151000" />
       <workItem from="1540825608433" duration="1235000" />
-      <workItem from="1540826871668" duration="17633000" />
+      <workItem from="1540826871668" duration="18301000" />
+      <workItem from="1540905415231" duration="4269000" />
     </task>
     <task id="LOCAL-00001" summary="Primera.">
       <created>1540568255919</created>
@@ -342,11 +455,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540835961462</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Slideshow terminado y formularios creados.">
+      <created>1540869497503</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540869497503</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36291000" />
+    <option name="totallyTimeSpent" value="41228000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,10 +478,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="67" y="25" width="1139" height="1055" extended-state="4" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13442624" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21953405" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.11375948" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -374,7 +494,7 @@
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32949308" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -418,7 +538,9 @@
     <MESSAGE value="readme" />
     <MESSAGE value="readme solved" />
     <MESSAGE value="Módulo 4 terminado, calculadora." />
-    <option name="LAST_COMMIT_MESSAGE" value="Módulo 4 terminado, calculadora." />
+    <MESSAGE value="Slideshow terminado y formularios creados." />
+    <MESSAGE value="Formulario maquetado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Formulario maquetado." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Fundamentos Js/Clase6-Ciclos/Js/CondicionesYCambios.js" />
@@ -467,9 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
           <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -596,10 +715,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1-Validación formulario/index.html">
+    <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/js/slide.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/js/scroll.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/js/scroll.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="381" lean-forward="true" selection-start-line="381" selection-end-line="381" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="370" selection-start-line="370" selection-end-line="370" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="311" column="1" selection-start-line="311" selection-start-column="1" selection-end-line="311" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/js/scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2561">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/fonts/fontawesome-webfont.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/fonts/fontawesome-webfont.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1407">
+          <caret line="151" column="4" selection-start-line="151" selection-start-column="4" selection-end-line="151" selection-end-column="4" />
         </state>
       </provider>
     </entry>
