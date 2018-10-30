@@ -2,90 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ec77d76-77b6-41ab-b097-7c93855f22e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/css/estilo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/galeria/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/galeria/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/galeria/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/galeria/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/galeria/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/galeria/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/galeria/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/icono.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/logotipo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/mouse/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/mouse/plano00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/mouse/plano01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/mouse/plano02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/radio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/slide/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/slide/slide01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/slide/slide02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/slide/slide03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/img/slide/slide04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/js/01.efecto-parallax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/js/02.vincular-botones.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/js/03.navegar-entre-botones.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/js/1y2.FormularioFocusYBlur.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/js/3.FormularioChange.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/js/Formulario.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/js/galeria.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/js/mouse.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/js/scroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/js/scroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/js/slide.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/css/estilo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/formulario.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/galeria/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/galeria/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/galeria/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/galeria/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/galeria/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/galeria/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/galeria/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/icono.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/logotipo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/mouse/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/mouse/plano00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/mouse/plano01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/mouse/plano02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/radio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/slide/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/slide/slide01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/slide/slide02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/slide/slide03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/img/slide/slide04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/01.efecto-parallax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/02.vincular-botones.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/03.navegar-entre-botones.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/1y2.FormularioFocusYBlur.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/3.FormularioChange.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/4.FormularioExpresionesRegulares.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/Formulario.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/galeria.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/mouse.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/scroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/scroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/slide.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/css/estilo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/index.html" afterDir="false" />
@@ -166,8 +82,8 @@
         <counts>
           <entry key="css" value="8" />
           <entry key="html" value="20" />
-          <entry key="js" value="27" />
-          <entry key="md" value="3" />
+          <entry key="js" value="30" />
+          <entry key="md" value="4" />
           <entry key="php" value="1" />
           <entry key="rnc" value="1" />
           <entry key="svg" value="2" />
@@ -178,8 +94,8 @@
         <counts>
           <entry key="CSS" value="8" />
           <entry key="HTML" value="20" />
-          <entry key="JavaScript" value="27" />
-          <entry key="Markdown" value="3" />
+          <entry key="JavaScript" value="30" />
+          <entry key="Markdown" value="4" />
           <entry key="PHP" value="1" />
           <entry key="RNG Compact" value="1" />
           <entry key="SVG" value="2" />
@@ -191,9 +107,9 @@
           <entry key="css" value="765" />
           <entry key="html" value="2192" />
           <entry key="js" value="4708" />
-          <entry key="md" value="460" />
+          <entry key="md" value="553" />
           <entry key="php" value="77" />
-          <entry key="txt" value="331" />
+          <entry key="txt" value="467" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -201,9 +117,9 @@
           <entry key="CSS" value="765" />
           <entry key="HTML" value="2193" />
           <entry key="JavaScript" value="4707" />
-          <entry key="Markdown" value="460" />
+          <entry key="Markdown" value="553" />
           <entry key="PHP" value="77" />
-          <entry key="PLAIN_TEXT" value="331" />
+          <entry key="PLAIN_TEXT" value="467" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -213,35 +129,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/Formulario.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="90" column="25" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="25" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="386" column="60" selection-start-line="386" selection-start-column="40" selection-end-line="386" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/formulario.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="324">
+                <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -297,7 +191,6 @@
         <option value="$PROJECT_DIR$/5-SlideShow/index.html" />
         <option value="$PROJECT_DIR$/5-SlideShow/Clase1-Maquetado html y css/CSS/estilo.css" />
         <option value="$PROJECT_DIR$/5-SlideShow/Clase2-Maquetado SlideShow/index.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/9-Formularios JS/Clase1-Validación formulario/css/estilo.css" />
         <option value="$PROJECT_DIR$/9-Formularios JS/Clase1-Validación formulario/index.html" />
         <option value="$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/fonts/fontawesome-webfont.svg" />
@@ -314,6 +207,8 @@
         <option value="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/formulario.php" />
         <option value="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/index.html" />
         <option value="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/Formulario.js" />
+        <option value="$PROJECT_DIR$/10-Botonera movil/Clase4-Evento blur/js/scroll.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -367,24 +262,6 @@
               <item name="Learn-Javascript-APIs-with-NodeJS-Angular-and-MongoDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
-            <path>
-              <item name="Learn-Javascript-APIs-with-NodeJS-Angular-and-MongoDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="9-Formularios JS" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Learn-Javascript-APIs-with-NodeJS-Angular-and-MongoDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="9-Formularios JS" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Clase7-Atributo OnSubmit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Learn-Javascript-APIs-with-NodeJS-Angular-and-MongoDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="9-Formularios JS" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Clase7-Atributo OnSubmit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="js" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -406,11 +283,11 @@
       <recent name="$PROJECT_DIR$/CalculadoraHTML/Clase1-Maquetado" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js" />
       <recent name="$PROJECT_DIR$/9-Formularios JS" />
       <recent name="$PROJECT_DIR$/9-Formularios JS/Clase6-Expresiones regulares/js" />
       <recent name="$PROJECT_DIR$/9-Formularios JS/Clase5-Evento change/js" />
-      <recent name="$PROJECT_DIR$/9-Formularios JS/Clase1-Validación formulario/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -442,7 +319,7 @@
       <workItem from="1540825608433" duration="1235000" />
       <workItem from="1540826871668" duration="18301000" />
       <workItem from="1540905415231" duration="6602000" />
-      <workItem from="1540912036898" duration="4863000" />
+      <workItem from="1540912036898" duration="7703000" />
     </task>
     <task id="LOCAL-00001" summary="Primera.">
       <created>1540568255919</created>
@@ -507,11 +384,25 @@
       <option name="project" value="LOCAL" />
       <updated>1540913796169</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Clase6 y 7, expresiones regulares y envio del formulario.&#10;Sección 9 terminada.">
+      <created>1540917637232</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540917637232</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Modulo 6, galeria">
+      <created>1540919113248</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540919113248</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48424000" />
+    <option name="totallyTimeSpent" value="51264000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -524,12 +415,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2262295" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.11375948" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.11375948" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -591,23 +481,12 @@
     <MESSAGE value="Formulario maquetado." />
     <MESSAGE value="Clase 3 y 4 de formularios, evento focus y blur." />
     <MESSAGE value="Clase 5 evento change, validación en campo de nombre." />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase 5 evento change, validación en campo de nombre." />
+    <MESSAGE value="Clase6 y 7, expresiones regulares y envio del formulario.&#10;Sección 9 terminada." />
+    <MESSAGE value="Modulo 6, galeria" />
+    <MESSAGE value="Formulario fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Formulario fixed" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3-POO/Clase2-Objetos,propiedades y métodos/Js/Clases.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3-POO/Clase1-Clases/Js/Clases.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3-POO/Clase3-Problema lógico1/Js/ObjetosPropiedadesMetodos.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -724,16 +603,6 @@
     <entry file="file://$PROJECT_DIR$/5-SlideShow/Clase3-Paginación SlideShow/CSS/estilo.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/js/slide.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -741,7 +610,13 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/js/scroll.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/fonts/fontawesome-webfont.svg">
       <provider selected="true" editor-type-id="images" />
@@ -751,7 +626,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase3-Eventos focus/js/scroll.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2547" />
+        <state relative-caret-position="-2547">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase1y2-Creación y maquetado del formulario/css/estilo.css">
@@ -786,6 +665,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1053">
           <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -913,13 +795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="386" column="60" selection-start-line="386" selection-start-column="40" selection-end-line="386" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/formulario.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -929,7 +804,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/Formulario.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
+        <state relative-caret-position="2430">
           <caret line="90" column="25" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
@@ -938,6 +813,33 @@
             <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/js/1y2.FormularioFocusYBlur.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-Formularios JS/Clase7-Atributo OnSubmit/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1773">
+          <caret line="386" column="60" selection-start-line="386" selection-start-column="40" selection-end-line="386" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-Botonera movil/Clase4-Evento blur/js/scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
