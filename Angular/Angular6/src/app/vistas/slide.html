@@ -1,0 +1,26 @@
+<!-- Directivas son pequeñas funcionalidades que se agregan en angular
+*ngFor para hace rbucles en la vista
+*ngIf es una directiva para condicionales
+-->
+
+<div id="slide" class="row" *ngIf="slideJson">
+
+  <ul >
+    <li *ngFor="let slide of slideJson">
+      <img src="{{slide.imagen}}">
+      <div class="textoSlide">
+        <h1>{{slide.titulo}}</h1>
+        <h3>{{slide.descripcion}}</h3>
+      </div>
+    </li>
+  </ul >
+
+  <ol id="paginacion">
+    <li *ngFor="let slide of slideJson ;let i=index" value={{i+1}}><span class="fa fa-circle"></span></li>
+  </ol>
+
+  <div class="flechas" id="retroceder"><span class="fa fa-chevron-left"></span></div>
+  <div class="flechas" id="avanzar"><span class="fa fa-chevron-right"></span></div>
+
+</div>
+<span *ngIf="!slideJson">Cargando el fucking slide.......</span>
