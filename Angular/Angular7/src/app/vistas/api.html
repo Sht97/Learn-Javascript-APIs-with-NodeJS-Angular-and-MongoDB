@@ -1,0 +1,63 @@
+<!--Logiiin-->
+<section *ngIf="!identificado" id="login">
+
+
+<form>
+
+  <h1>LOGIN</h1>
+  <hr>
+
+  <input type="text" placeholder="Usuario">
+  <input type="password" placeholder="Contraseña">
+  <input type="submit" value="enviar">
+
+</form>
+  <a [routerLink]="['/index']" ><button class="btn-frontend">Back</button></a>
+
+
+</section>
+<section *ngIf="identificado" id="backend">
+  <a [routerLink]="['/index']" ><button class="btn-frontend">Back</button></a>
+
+  <div id="cabezote">
+
+    <h3>Hola Usuario</h3>
+    <button>Cerrar sesión</button>
+
+  </div>
+  <hr>
+
+
+  <div class="gestores">
+
+    <h1>Gestor Slide</h1>
+    <form>
+      <input type="text" placeholder="Título..." required>
+
+      <textarea maxlength="55" placeholder="Descripción..." required></textarea>
+
+      <input type="file" required>
+      <input type="submit" value="Enviar">
+
+
+    </form>
+  </div>
+  <slide></slide>
+  <div class="gestores">
+
+    <h1>GESTOR GALERÍA</h1>
+
+    <form>
+
+      <input type="file" required>
+
+      <input type="submit" value="Enviar">
+
+    </form>
+
+  </div>
+  <galeria></galeria>
+
+
+
+</section>
