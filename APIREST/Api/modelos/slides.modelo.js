@@ -5,6 +5,6 @@ var Schema=mongoose.Schema;
 var SlidesScheme=Schema({
     imagen:String,
     titulo:String,
-    descipcion:String
+    descripcion:String
 });
 module.exports=mongoose.model("Slides",SlidesScheme);

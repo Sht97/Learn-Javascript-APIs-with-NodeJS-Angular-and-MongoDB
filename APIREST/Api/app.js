@@ -20,6 +20,16 @@ var rutaSlides = require("./rutas/slides.ruta.js");
 var rutaGalerias = require("./rutas/galerias.ruta.js");
 
 
+/*Cabeceras http*/
+app.use((req, res, next)=>{
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "Authorization, X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Allow-Request-Method");
+    res.header("Access-Control-Allow-Methods", "GET, POST, OPTIONS, PUT, DELETE");
+    res.header("Allow", "GET, POST, OPTIONS, PUT, DELETE");
+    next();
+
+})
+
 //Rutas base
 //Estado 200 OK
 //Estado 404 petición no encontrada

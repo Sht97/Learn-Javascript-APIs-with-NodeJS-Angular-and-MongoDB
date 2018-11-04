@@ -5,7 +5,7 @@ var mongoose = require("mongoose");
 var app = require("./app");
 
 //Esto se hace para establecer la variable de entorno PORT (Puerto HTTP)
-var port = process.env.PORT || 1234;
+var port = process.env.PORT || 1235;
 //Conexion a base de datos
 mongoose.connect("mongodb://localhost:27017/mongodb", (error, respuesta) => {
         if (error) {
