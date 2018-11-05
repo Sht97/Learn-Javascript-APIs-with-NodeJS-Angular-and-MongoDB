@@ -28,7 +28,7 @@ app.use((req, res, next)=>{
     res.header("Allow", "GET, POST, OPTIONS, PUT, DELETE");
     next();
 
-})
+});
 
 //Rutas base
 //Estado 200 OK

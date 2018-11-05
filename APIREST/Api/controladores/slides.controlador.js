@@ -45,7 +45,7 @@ function mostrarSlides(req, res) {
         if (error) {
             res.status(500).send({mensaje: "Error en la aplicacion"})
         } else {
-            res.status(200).send({mensaje: mostrandoSlides})
+            res.status(200).send({mostrandoSlides})
         }
     }).sort("_id")
 }

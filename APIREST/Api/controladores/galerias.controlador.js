@@ -40,7 +40,7 @@ function mostrarFotos(req, res) {
         if (error) {
             res.status(500).send({mensaje: "Error en la aplicacion"})
         } else {
-            res.status(200).send({mensaje: mostrandoFotos})
+            res.status(200).send({mostrandoFotos})
         }
     }).sort("_id")
 }

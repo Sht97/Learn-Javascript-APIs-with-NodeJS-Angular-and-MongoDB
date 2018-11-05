@@ -1,0 +1,79 @@
+<!--Logiiin-->
+<section *ngIf="!identificado" id="login">
+
+
+  <form #formIngreso="ngForm" (ngSubmit)="enviar()">
+
+    <h1>LOGIN</h1>
+    <hr>
+    <span *ngIf="usuario.touched && !usuario.valid" [ngStyle]="{'color':'red','font-size':'14px','margin':'20px'}">*Campo requerido</span>
+    <input type="text" placeholder="Usuario" name="usuario" #usuario="ngModel" [(ngModel)]="listaUsuarios.usuario"
+           required>
+
+    <span *ngIf="password.touched && !password.valid" [ngStyle]="{'color':'red','font-size':'14px','margin':'20px'}">*Campo requerido</span>
+
+    <input type="password" placeholder="Contraseña" name="password" #password="ngModel"
+           [(ngModel)]="listaUsuarios.password" required>
+    <input type="submit" value="enviar">
+    <div *ngIf="validarIngreso" style="text-align:center">
+      <div style="color: red; margin-bottom: 10px ">{{mensaje}}</div>
+    </div>
+
+  </form>
+  <a [routerLink]="['/index']">
+    <button class="btn-frontend">Back</button>
+  </a>
+
+
+</section>
+<section *ngIf="identificado" id="backend">
+  <a [routerLink]="['/index']">
+    <button class="btn-frontend">Back</button>
+  </a>
+
+  <div id="cabezote">
+
+    <h3>Hola {{usuario}}</h3>
+    <button (click)="cerrarSesion()">Cerrar sesión</button>
+
+  </div>
+  <hr>
+
+
+  <div class="gestores">
+
+    <h1>Gestor Slide</h1>
+    <form #formSlides="ngForm" (ngSubmit)="nuevoSlide()">
+      <input type="text" placeholder="Título..." name="titulo" #titulo="ngModel" [(ngModel)]="itemSlides.titulo" required>
+
+      <textarea maxlength="55" placeholder="Descripción..." name="descripcion" #descripcion="ngModel" [(ngModel)]="itemSlides.descripcion" required></textarea>
+
+
+      <input type="file" (change)="cargarFichero($event)" required>
+      <input type="submit" value="Enviar">
+      <div *ngIf="validarIngreso">
+
+        <div style="color: red; margin-bottom: 10px ">{{mensaje}}</div>
+
+      </div>
+
+    </form>
+  </div>
+  <slide></slide>
+  <div class="gestores">
+
+    <h1>GESTOR GALERÍA</h1>
+
+    <form>
+
+      <input type="file" required>
+
+      <input type="submit" value="Enviar">
+
+    </form>
+
+  </div>
+  <galeria></galeria>
+
+
+</section>

@@ -55,7 +55,7 @@ function ingresoUsuario(req, res) {
             if (error) {
                 res.status(500).send({mensaje: "Error al iniciar con este usuario"})
             } else {
-                if (!usuario) {
+                if (!seleccionUsuario) {
                     res.status(404).send({mensaje: "El usuario no existe"})
                 } else {
 
@@ -65,7 +65,7 @@ function ingresoUsuario(req, res) {
                             //Se debe enviar un parametro token en true;
                             if (parametros.token) {
                                 //Se devuelve un token de JWT
-                                res.status(200).send({token: token.crearToken(seleccionUsuario)})
+                                res.status(200).send({token: token.crearToken(seleccionUsuario),seleccionUsuario})
                             }
                         }
                         else {
