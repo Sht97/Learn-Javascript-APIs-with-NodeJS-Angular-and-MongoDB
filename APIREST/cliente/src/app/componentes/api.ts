@@ -3,13 +3,17 @@ import {ListaUsuarios} from "../modelos/usuarios.modelo"
 import {ItemSlides} from "../modelos/slides.modelo"
 import {ServicioUsuarios} from "../servicios/usuarios.servicio";
 import {ServicioSlide} from "../servicios/slide.servicio";
-import{Ruta} from "../ruta_global";
+import {ItemGalerias} from "../modelos/galerias.modelo";
+import {ServicioGaleria} from "../servicios/galeria.servicio";
+
+
+import {Ruta} from "../ruta_global";
 
 @Component({
 
   selector: "tag-api",
   templateUrl: "../vistas/api.html",
-  providers: [ServicioUsuarios,ServicioSlide]
+  providers: [ServicioUsuarios, ServicioSlide, ServicioGaleria]
 
 })
 export class ApiComponente {
@@ -18,15 +22,16 @@ export class ApiComponente {
   public usuario;
   public listaUsuarios: ListaUsuarios;
   public itemSlides: ItemSlides;
+  public itemGalerias: ItemGalerias;
   public validarIngreso: boolean = false;
   public mensaje;
 //public subirImagen= Array<File>;
   public subirImagen: Array<File>;
-  public url:string;
+  public url: string;
 
-  constructor(private _servicioUsuarios: ServicioUsuarios,private _servicioSlide:ServicioSlide) {
+  constructor(private _servicioUsuarios: ServicioUsuarios, private _servicioSlide: ServicioSlide, private _servicioGalerias: ServicioGaleria) {
     this.listaUsuarios = new ListaUsuarios("", "");
-    this.url=Ruta.url;
+    this.url = Ruta.url;
     this.itemSlides = new ItemSlides("", "", "");
   }
 
@@ -76,12 +81,22 @@ export class ApiComponente {
   }
 
   nuevoSlide() {
-    this._servicioSlide.subirImagenSlide(this.url+"crear-slide",this.itemSlides,this.identificado,this.subirImagen).then(
-      (resultado)=>{
+    this._servicioSlide.subirImagenSlide(this.url + "crear-slide", this.itemSlides, this.identificado, this.subirImagen).then(
+      (resultado) => {
         window.location.reload();
-    },(error)=>{
-        this.validarIngreso=true;
-        this.mensaje="No se pudo subir el slide"
+      }, (error) => {
+        this.validarIngreso = true;
+        this.mensaje = "No se pudo subir el slide"
+      });
+  }
+
+  nuevaFotoGaleria() {
+    this._servicioGalerias.nuevaFotoGalerias(this.url + "crear-foto",this.identificado, this.subirImagen).then(
+      (resultado) => {
+        window.location.reload();
+      }, (error) => {
+        this.validarIngreso = true;
+        this.mensaje = "No se pudo subir el slide"
       });
   }
 }

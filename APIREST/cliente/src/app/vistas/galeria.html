@@ -11,10 +11,10 @@
 <div *ngIf="galeriaJson" id="galeria" class="row">
 
   <ul>
-    <li class="col-lg-2 col-md-3 col-sm-4 col-xs-12" *ngFor="let image of galeriaJson">
-      <img src="{{url+'/'+image.foto}}">
+    <li class="col-lg-2 col-md-3 col-sm-4 col-xs-12" *ngFor="let galeria of galeriaJson">
+      <img src="{{url+'tomar-imagen-galeria/'+galeria.foto}}">
       <div *ngIf="identificado">
-        <i class="fa fa-trash" aria-hidden="true"></i>
+        <i (click)="borrarFoto(galeria)" class="fa fa-trash" aria-hidden="true"></i>
 
       </div>
     </li>

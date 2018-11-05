@@ -1,40 +1,38 @@
-import { Component,OnInit } from '@angular/core';
-import {GaleriaServicio} from "../servicios/galeria.servicio";
+import {Component, OnInit} from '@angular/core';
+import {ServicioGaleria} from "../servicios/galeria.servicio";
 import {Ruta} from "../ruta_global";
 
 @Component({
 
-  selector:"galeria",
-  templateUrl:"../vistas/galeria.html",
-  providers:[GaleriaServicio]
+  selector: "galeria",
+  templateUrl: "../vistas/galeria.html",
+  providers: [ServicioGaleria]
 
 
 })
-export class GaleriaComponente implements OnInit{
+export class GaleriaComponente implements OnInit {
   public galeriaJson;
-  public identificado:string;
-  public url:string;
+  public identificado: string;
+  public url: string;
 
 
-  constructor(private _GaleriaServicio:GaleriaServicio){
+  constructor(private _GaleriaServicio: ServicioGaleria) {
 
     //console.log(this._SlideServicio.prueba());
     this._GaleriaServicio.tomarJsonGaleria().subscribe(resltado => {
 
-        this.galeriaJson=resltado.mostrandoFotos;
-        this.url=Ruta.url+"tomar-imagen-galeria";
-        console.log(this.galeriaJson);
-      },
-      error =>{
-        var mensajeError=<any>error;
+        this.galeriaJson = resltado.mostrandoFotos;
+        this.url = Ruta.url ;
+      }, error => {
+        var mensajeError = <any>error;
       }
-
     );
   }
-  ngOnInit(){
 
-    this.identificado=localStorage.getItem("id");
-    setTimeout(()=>{
+  ngOnInit() {
+
+    this.identificado = localStorage.getItem("id");
+    setTimeout(() => {
 
       var pg = {
         imgGaleria: document.querySelectorAll("#galeria ul li img"),
@@ -45,16 +43,16 @@ export class GaleriaComponente implements OnInit{
         animacionGaleria: "fade"
       }
       var mg = {
-        inicioGaleria: function() {
+        inicioGaleria: function () {
           for (var i = 0; i < pg.imgGaleria.length; i++) {
             pg.imgGaleria[i].addEventListener("click", mg.capturaImagen)
           }
         },
-        capturaImagen: function(img) {
+        capturaImagen: function (img) {
           pg.rutaImagen = img.target;
           mg.lightbox(pg.rutaImagen)
         },
-        lightbox: function(img) {
+        lightbox: function (img) {
           pg.cuerpoDom.appendChild(document.createElement("DIV")).setAttribute("id", "lightbox");
           pg.lightbox = document.querySelector("#lightbox");
           pg.lightbox.style.width = "100%";
@@ -80,7 +78,7 @@ export class GaleriaComponente implements OnInit{
             pg.modal.style.top = "50%";
             pg.modal.style.left = 0;
             pg.modal.style.opacity = 0;
-            setTimeout(function() {
+            setTimeout(function () {
               pg.modal.style.transition = ".5s left ease";
               pg.modal.style.left = "50%";
               pg.modal.style.opacity = 1;
@@ -92,7 +90,7 @@ export class GaleriaComponente implements OnInit{
             pg.modal.style.top = "-100%";
             pg.modal.style.left = "50%";
             pg.modal.style.opacity = 0;
-            setTimeout(function() {
+            setTimeout(function () {
               pg.modal.style.transition = ".5s top ease";
               pg.modal.style.top = "50%";
               pg.modal.style.opacity = 1;
@@ -104,7 +102,7 @@ export class GaleriaComponente implements OnInit{
             pg.modal.style.top = "50%";
             pg.modal.style.left = "50%";
             pg.modal.style.opacity = 0;
-            setTimeout(function() {
+            setTimeout(function () {
               pg.modal.style.transition = ".5s opacity ease";
               pg.modal.style.opacity = 1;
               pg.modal.style.marginLeft = -pg.modal.childNodes[0].width / 2 + "px";
@@ -124,15 +122,29 @@ export class GaleriaComponente implements OnInit{
           pg.modal.childNodes[1].style.borderRadius = "0px 0px 0px 5px";
           pg.modal.childNodes[1].addEventListener("click", mg.salirGaleria)
         },
-        salirGaleria: function() {
+        salirGaleria: function () {
           pg.lightbox.parentNode.removeChild(pg.lightbox);
         }
       };
       mg.inicioGaleria();
 
-    },2000);
+    }, 2000);
 
 
+  }
+
+  borrarFoto(galeria){
+    let id=galeria._id;
+    this._GaleriaServicio.borrarItemFoto(id).subscribe(
+      resultado=>{
+
+        window.location.reload();
+      },
+      error=>{
+        console.log("error",error);
+      }
+
+    )
   }
 
 }
