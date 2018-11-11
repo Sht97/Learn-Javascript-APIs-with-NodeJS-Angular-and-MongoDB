@@ -16,4 +16,4 @@ Modulos correspondientes:
 
 ### Aclaraciones: es necesario tener [NodeJS](https://nodejs.org/es/) instalado junto con [Angular](https://angular.io/guide/quickstart) en su versión 7.
 - #### Para correr cualquier clase de la clase de la sección de Angular, el api o cliente de la sección APIREST es necesario abrir una terminal y correr el comando:
-     npm install
+     `npm install`   
