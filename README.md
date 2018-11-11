@@ -13,7 +13,8 @@ Modulos correspondientes:
 ### 10 Adaptar para dispositivos moviles.
 ### 11 Typescript.
 ### 12 Angular.
+### 13 APIREST.
 
 ### Aclaraciones: es necesario tener [NodeJS](https://nodejs.org/es/) instalado junto con [Angular](https://angular.io/guide/quickstart) en su versión 7.
-- #### Para correr cualquier clase de la clase de la sección de Angular, el api o cliente de la sección APIREST es necesario abrir una terminal y correr el comando:
+- #### Para correr cualquier clase de la clase de la sección de Angular, el api o cliente de la sección APIREST es necesario abrir una terminal en el directorio y correr el comando:
      `npm install`   
