@@ -1,7 +1,3 @@
-/*=============================================
-EL OBJETO CON LAS PROPIEDADES DEL MOUSE
-=============================================*/
-
 var pm = {
 
 	zona: document.querySelector("#efectoMouse"),
@@ -13,9 +9,6 @@ var pm = {
 
 }
 
-/*=============================================
-EL OBJETO CON LOS MÉTODOS DEL MOUSE
-=============================================*/
 
 var mm = {
 
